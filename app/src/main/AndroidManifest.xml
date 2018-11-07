@@ -24,8 +24,8 @@
             </intent-filter>
         </activity>
 
-        <meta-data android:name="eyekey_appkey" android:value="83c745b57d9046c8be05c4896feacc88"/>
-        <meta-data android:name="eyekey_appid" android:value="c1229fc68ea84e8180199782c2e51fb1"/>
+        <meta-data android:name="eyekey_appkey" android:value=""/>
+        <meta-data android:name="eyekey_appid" android:value=""/>
     </application>
 
 </manifest>
