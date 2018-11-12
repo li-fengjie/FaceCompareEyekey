@@ -26,7 +26,7 @@
     compile "com.squareup.retrofit2:retrofit:2.1.0"
     compile "com.squareup.retrofit2:converter-gson:2.1.0"
 ```
-
+retrofit使用参见[retrofit使用参见](retrofit使用参见.md)
 导入sdk,如图放入文件路径下： 
 
 ![路径](imgs/path.png)
